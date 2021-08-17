@@ -37,6 +37,6 @@ class PutLogs:
     
     if __name__ == "__main__":
         while True:
-            capturePackets(10)
+            capturePackets(5)
             uploadPackets()
     
